@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70BEA&width=435&lines=PROJETO+FINAL++INDIVIDUAL++-++MVP+MEU+APP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70BEA&width=435&lines=PROJETO+FINAL++INDIVIDUAL++-++MEU+APP)](https://git.io/typing-svg)
 
 
 Criamos um MVP para a empresa testar seu novo app (front e back-end) com funcionalidades basicas do CRUD (MVP é a 
